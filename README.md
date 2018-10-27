@@ -26,24 +26,25 @@ node bamazoncustomer.js
 ```
 
 You may then follow the prompts to complete the purchase.
-![alt text](purchase.png)! [alt text](purchase2.png)
+![alt text](images/purchase.png)! [alt text](images/purchase2.png)
+![alt text](images/purchase3.png) ![alt text](images/purchase4.png)
 
 To access manager functions run:
 ```
 node bamazonmanager.js
 ```
 
-![alt text](manager.png)
+![alt text](images/manager.png)
 1.  "View Products for sale" will bring up a list of all items for sale in the database.
 
-![alt text](manager1.png)
+![alt text](images/manager1.png)
 
 2.  "View Low Inventory" will bring up a list of all inventory items with an on-hand count lower than 5.
-![alt text](bamazon2.png)
+![alt text](images/bamazon2.png)
 
 3.  "Add to Inventory"  will prompt you to pick and item, and then allow you to add an amount to the available on-hand.
-![alt text](manager3_1.png)
+![alt text](images/manager3_1.png)
 
 4.  "Add New Product" will prompt you to add a new product, starting with the name, going through to its department, price, and its on-hand amount.
 
-![alt text](manager4.png)
+![alt text](images/manager4.png)
