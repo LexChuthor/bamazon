@@ -26,7 +26,7 @@ node bamazoncustomer.js
 ```
 
 You may then follow the prompts to complete the purchase.
-![alt text](images/purchase.png)! [alt text](images/purchase2.png)
+![alt text](images/purchase.png) ![alt text](images/purchase2.png)
 ![alt text](images/purchase3.png) ![alt text](images/purchase4.png)
 
 To access manager functions run:
